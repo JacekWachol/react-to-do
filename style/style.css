@@ -1,0 +1,16 @@
+
+.container {
+  padding: 50px;
+}
+
+.list-input input {
+  width: 100%;
+}
+
+input {
+  height: 65px;
+}
+
+li {
+  height: 65px;
+}
