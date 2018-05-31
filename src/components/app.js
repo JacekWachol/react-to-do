@@ -34,8 +34,7 @@ class App extends Component {
 
     this.setState({goals: filteredGoals});
     localStorage.todo = JSON.stringify(filteredGoals);
-    //this.setState({goals: filteredGoals});
-  //  localStorage.todo = JSON.stringify(filteredGoals);
+    
 
   }
 
